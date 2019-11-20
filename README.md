@@ -14,7 +14,12 @@
 5. Farðu núna inn á geymsluna þína á github og sjáðu hvort verkefnið sé ekki komið þangað.
 6. Bættu kennaranum þínum við sem samstarfsaðila (*e. collaberator*) á geymsluna. Þú finnur stillinguna fyrir það í **Settings->Collaberators**.
 7. Farðu núna inn á Innu og skilaðu hlekknum á geymsluna þína í verkefnið þar.
-8. Gott getur verið að vera með viðbót (*e. extension*) í Visual Studio Code sem býður upp á forskoðun á markdown kóða, t.d. *Markdown All in One*.
+8. Í Git Bash, farðu úr möppunni **git_skilaverkefni_grunnur** með `cd ..` og keyrðu svo eftirfarandi:
+
+```git clone https://github.com/ÞITT_NOTENDANAFN/git_verkefni.git```
+
+9. Farðu svo inn í möppuna **git_verkefni** og opnaðu Visual Studio Code þar með því að slá inn `code .`.
+9. Gott getur verið að vera með viðbót (*e. extension*) í Visual Studio Code sem býður upp á forskoðun á markdown kóða, t.d. *Markdown All in One*.
 
 ## Verkefnið
 Notaðu Visual Studio Code og Git Bash til að leysa verkefnið.
