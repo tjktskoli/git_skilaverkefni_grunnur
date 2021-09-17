@@ -3,7 +3,7 @@
 ## Uppsetning
 1.  Afritaðu þessa geymslu á tölvuna þína en passaðu að nota `bare` rofann:
 
-`git clone --bare git@github.com:gestskoli/git_skilaverkefni_grunnur.git`
+`git clone --bare git@github.com:gestskoli/git_skilaverkefni_grunnur`
 <!-- 
 ```git clone --bare https://github.com/gestskoli/git_skilaverkefni_grunnur.git```
 -->  
@@ -11,7 +11,7 @@
 
 3. Farðu inn í möppuna **git_skilaverkefni_grunnur** á tölvunni þinni og sendu (*e. push*) hana upp á github, í geymsluna sem þú bjóst til í lið 2. Passaðu að nota `mirror` rofann.
 
-`git push --mirror git@github.com:ÞITT_NOTENDANAFN/git_verkefni.git`
+`git push --mirror git@github.com:ÞITT_NOTENDANAFN/git_verkefni`
 <!-- 
 ```git push --mirror https://github.com/ÞITT_NOTENDANAFN/git_verkefni.git```
 -->
@@ -20,7 +20,7 @@
 7. Farðu núna inn á Innu og skilaðu hlekknum á geymsluna þína í verkefnið þar.
 8. Í Git Bash, farðu úr möppunni **git_skilaverkefni_grunnur** með `cd ..` og keyrðu svo eftirfarandi:
 
-`git clone git@github.com:ÞITT_NOTENDANAFN/git_verkefni.git`
+`git clone git@github.com:ÞITT_NOTENDANAFN/git_verkefni`
 <!-- 
 ```git clone https://github.com/ÞITT_NOTENDANAFN/git_verkefni.git```
 -->
