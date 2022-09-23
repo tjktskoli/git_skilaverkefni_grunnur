@@ -2,6 +2,8 @@
 
 Búðu til nýja lokaða geymslu (e. private repo) og bjóddu kennaranum þínum inn sem samstarfsaðila (e. collaborator).
 
+Skilið slóðinni á geymsluna í Innu.
+
 <!--
 ## Uppsetning
 1.  Afritaðu þessa geymslu á tölvuna þína en passaðu að nota `bare` rofann:
