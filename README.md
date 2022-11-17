@@ -1,4 +1,4 @@
-# Git skilaverkefni H21
+# Git skilaverkefni H22
 
 Búðu til nýja lokaða geymslu (e. private repo) og bjóddu kennaranum þínum inn sem samstarfsaðila (e. collaborator).
 
