@@ -1,8 +1,8 @@
 # Git skilaverkefni H22
 
-Búðu til nýja lokaða geymslu (e. private repo) og bjóddu kennaranum þínum inn sem samstarfsaðila (e. collaborator).
+Búðu til nýja lokaða geymslu (e. private repo), hakaðu í **Add a README file**. Bjóddu svo kennaranum þínum inn sem [samstarfsaðila](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository) (e. collaborator), notendanafn kennarans er *gestskoli*.
 
-Skilið slóðinni á geymsluna í Innu.
+Skilaðu slóðinni á geymsluna í Innu.
 
 <!--
 ## Uppsetning
