@@ -35,7 +35,7 @@ Skilaðu slóðinni á geymsluna í Innu.
 9. Gott getur verið að vera með viðbót (*e. extension*) í Visual Studio Code sem býður upp á forskoðun á markdown kóða, t.d. *Markdown All in One*.
 -->
 ## Verkefnið
-Notaðu Visual Studio Code og Git Bash til að leysa verkefnið.
+<!-- Notaðu Visual Studio Code og Git Bash til að leysa verkefnið. -->
 ### Fyrri hluti
 Skoðaðu þetta skjal: [Verkefni1_formad.pdf](./Verkefni1_formad.pdf), appelsínuguli textinn er skýringatexti og er ekki hluti af því sem á að forma. Notaðu nú hæfileika þína í markdown til að forma [frumtexti.md](frumtexti.md) þannig að það verði svipað og pdf skjalið sýnir. Mundu að gera `commit` reglulega og senda svo geymsluna á github þegar þessum hluta er lokið.
 
