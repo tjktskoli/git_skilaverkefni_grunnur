@@ -1,4 +1,4 @@
-# Git skilaverkefni V23
+# Git skilaverkefni H23
 
 **Athugið að verkefnið er einstaklingsverkefni, ef tveir eða fleiri skila sömu lausninni verður gefið 0 (núll) fyrir þær lausnir.**
 
