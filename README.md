@@ -2,7 +2,7 @@
 
 **Athugið að verkefnið er einstaklingsverkefni, ef tveir eða fleiri skila sömu lausninni verður gefið 0 (núll) fyrir þær lausnir.**
 
-Búðu til nýja lokaða geymslu (e. private repo), hakaðu í **Add a README file**. Bjóddu svo kennaranum þínum inn sem [samstarfsaðila](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository) (e. collaborator), notendanafn kennarans er *gestskoli*.
+Búðu til nýja lokaða geymslu (e. private repo), hakaðu í **Add a README file**. Bjóddu svo kennaranum þínum inn sem [samstarfsaðila](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository) (e. collaborator), notendanafn kennarans.
 
 Skilaðu slóðinni á geymsluna í Innu.
 
