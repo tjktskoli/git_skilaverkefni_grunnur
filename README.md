@@ -2,7 +2,7 @@
 
 **Athugið að verkefnið er einstaklingsverkefni, ef tveir eða fleiri skila sömu lausninni verður gefið 0 (núll) fyrir þær lausnir.**
 
-Búðu til nýja lokaða geymslu (e. private repo), hakaðu í **Add a README file**. Bjóddu svo kennaranum þínum inn sem [samstarfsaðila](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository) (e. collaborator), notendanafn kennarans.
+Búðu til nýja lokaða geymslu (e. private repo), hakaðu í **Add a README file**. Bjóddu svo kennaranum þínum inn sem [samstarfsaðila](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository) (e. collaborator).
 
 Skilaðu slóðinni á geymsluna í Innu.
 
@@ -43,6 +43,5 @@ Skoðaðu þetta skjal: [Verkefni1_formad.pdf](./Verkefni1_formad.pdf), appelsí
 Leystu þetta verkefni: https://vefhonnun.github.io/verkstjorn/Verkefni.html (ekki þarf að gera *Branching* hlutann) og skilaðu hér í geymsluna þína. Mundu að gera `commit` eftir hverja spurningu. Notaðu markdown til að setja spurningar og svör snyrtilega upp. Að lokum sendir þú svo geymsluna á github.
 
 ## Bjargir
- - [Markdown Syntax (pdf)](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
  - [Markdown Cheatsheet (wiki)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
  - [Writing on Github](https://help.github.com/en/github/writing-on-github)
