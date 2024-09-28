@@ -1,64 +1,26 @@
-Irure veniam deserunt excepteur
+Aute ipsum laboris ut
 
-Eu excepteur id pariatur velit
-Ex est eiusmod quis in tempor
-Nulla consequat in duis quis
-Ad esse sit nostrud est sit sunt
-Eiusmod tempor et fugiat
-Dolore ut velit
-Commodo occaecat
-Occaecat amet labore
+Commodo do magna elit amet incididunt cillum non.
 
-Eu excepteur id pariatur velit
+In anim do duis ullamco. Lorem ad mollit eu anim exercitation qui ea pariatur fugiat proident mollit. Consectetur dolore cupidatat aliquip aliqua elit exercitation cillum duis tempor.
 
-Et sit incididunt ex ad quis. Tempor dolor velit laborum qui. Consequat occaecat anim ut deserunt laboris ea amet et.
+Excepteur amet aliqua quis exercitation aliquip laboris. 
 
-Ex est eiusmod quis in tempor
+Proident quis velit sint fugiat eiusmod eiusmod esse. Cupidatat velit nulla ipsum est tempor et sunt nisi incididunt elit ea officia aliquip ad. 
 
-Minim dolor et cillum Lorem cillum sunt. Duis eiusmod anim anim ut dolor. Nulla non voluptate ex est anim elit pariatur. Qui dolor ut nostrud dolor. Duis ipsum exercitation pariatur in. Anim voluptate irure aliquip aliquip magna et dolore. Ex nostrud consectetur consequat dolor incididunt minim consequat sint tempor cillum ex.
+Tækniskólinn https://www.tskoli.is
 
-Nulla consequat in duis quis
+https://tskoli.is/wp-content/uploads/2017/07/Tækniskólinn.Háteigsvegi-1-768x463.jpg
 
-Incididunt commodo aliqua et Lorem veniam velit velit ullamco eiusmod do pariatur. Incididunt minim culpa dolore ipsum excepteur culpa ut velit magna. Ad et dolore ad nisi dolore nulla elit. Enim sit aliquip magna amet minim do tempor ullamco ea dolor quis eu. Eiusmod tempor et fugiat ea ea voluptate aliquip amet duis nulla. Sunt deserunt aliquip sit aliqua eiusmod irure enim commodo quis do tempor incididunt.
-
-Ad esse sit nostrud est sit sunt
-
-Miðja  Vinstri  Hægri
-12  34  56
-tempor  et  fugiat
-
-Eiusmod tempor et fugiat
-
-HÉR Á MERMAID KÖKURITIÐ AÐ KOMA
-
-Dolore ut velit
-
-
-void setup() {
-    Serial.begin(9600);
-    Serial.println("Halló");
-}
-
-Commodo occaecat
-
-Incididunt
-laborum
-mollit
-cupidatat
-laboris
-anim
-
-Velit sit sunt incididunt ipsum eiusmod id ipsum deserunt sint non enim.
-
-deserunt
-sit
-aliqua
-eiusmod
-irure
-aliquip
-
-## Occaecat amet labore
-
-Slóð á mynd: https://tskoli.is/wp-content/uploads/2019/06/skolavorduholt-595x440.jpg
+Dolor tempor velit excepteur ut nostrud est excepteur fugiat fugiat voluptate duis cupidatat elit. Nulla aliquip aute consequat quis elit consequat ullamco excepteur officia.
 
 Video id: HUBNt18RFbo
+
+Aliquip sunt laboris et esse nostrud. 
+
+Eu est dolore duis enim consequat incididunt excepteur consectetur proident officia sit velit irure. Irure qui sunt enim aute cillum dolore. Elit amet nulla cupidatat nostrud excepteur duis dolore sit quis nisi. Do non eu est laboris quis duis laboris adipisicing dolore nulla nostrud et. 
+
+Veniam ullamco esse dolore duis ea.
+
+for i in range(10):
+    print(i)
