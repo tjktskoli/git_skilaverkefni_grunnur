@@ -1,10 +1,16 @@
 # Git skilaverkefni V25
 
-**Athugið að verkefnið er einstaklingsverkefni, ef tveir eða fleiri skila sömu lausninni verður gefið 0 (núll) fyrir þær lausnir.**
+### **Athugið að verkefnið er einstaklingsverkefni, ef tveir eða fleiri skila sömu lausninni verður gefið 0 (núll) fyrir þær lausnir.**
 
 Búðu til nýja lokaða geymslu (e. private repo), hakaðu í **Add a README file**. Bjóddu svo kennaranum þínum inn sem [samstarfsaðila](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository) (e. collaborator).
 
 Skilaðu slóðinni á geymsluna í Innu.
+Smelltu á hnappinn CODE í stjórnunarhluta möppunnar, afritaðu slóðina sem birtist undir HTTPS
+Opnaðu git-bash á localvélinni þinni
+Staðsettu þig í þeirri möppu sem þú vilt geyma verkefnið
+Gefðu skipunina git clone [afritaða slóðin fer hér]
+Við þetta færist allt innihald reposins á github yfir í möppuna þína á localvél
+
 
 <!--
 ## Uppsetning
