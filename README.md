@@ -2,13 +2,14 @@
 
 ### **Athugið að verkefnið er einstaklingsverkefni, ef tveir eða fleiri skila sömu lausninni verður gefið 0 (núll) fyrir þær lausnir.**
 
-Búðu til nýja lokaða geymslu (e. private repo), hakaðu í **Add a README file**. Bjóddu svo kennaranum þínum inn sem [samstarfsaðila](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository) (e. collaborator).
+Búðu til nýja lokaða geymslu (e. private repo), hakaðu í **Add a README file**. 
+Bjóddu svo kennaranum þínum inn sem [samstarfsaðila](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository) (e. collaborator).
 
 Skilaðu slóðinni á geymsluna í Innu.
 Smelltu á hnappinn CODE í stjórnunarhluta möppunnar, afritaðu slóðina sem birtist undir HTTPS
 Opnaðu git-bash á localvélinni þinni
 Staðsettu þig í þeirri möppu sem þú vilt geyma verkefnið
-Gefðu skipunina git clone [afritaða slóðin fer hér]
+Gefðu skipunina `git clone [afritaða slóðin fer hér]`
 Við þetta færist allt innihald reposins á github yfir í möppuna þína á localvél
 
 
@@ -41,12 +42,22 @@ Við þetta færist allt innihald reposins á github yfir í möppuna þína á 
 9. Gott getur verið að vera með viðbót (*e. extension*) í Visual Studio Code sem býður upp á forskoðun á markdown kóða, t.d. *Markdown All in One*.
 -->
 ## Verkefnið
-<!-- Notaðu Visual Studio Code og Git Bash til að leysa verkefnið. -->
-### Fyrri hluti
-Skoðaðu þetta skjal: [formad.svg](./formad.svg), appelsínuguli textinn er skýringatexti og er ekki hluti af því sem á að forma. Notaðu nú hæfileika þína í markdown til að forma [frumtexti.md](frumtexti.md) þannig að það verði svipað og pdf skjalið sýnir. Mundu að gera `commit` reglulega og senda svo geymsluna á github þegar þessum hluta er lokið.
+### Fyrri hluti:
+Skoðaðu þetta skjal: [formad.svg](./formad.svg), 
+appelsínuguli textinn er skýringatexti og er ekki hluti af því sem á að forma. 
+Notaðu nú hæfileika þína í markdown til að forma [frumtexti.md](frumtexti.md) 
+þannig að það verði svipað og pdf skjalið sýnir. 
+Mundu að nota `git add .` og `git commit -m 'skýring'` reglulega.
+Sendu svo geymsluna á github þegar þessum hluta er lokið.
+`git push`
 
-### Seinni hluti
-Leystu þetta verkefni: https://vefhonnun.github.io/verkstjorn/Verkefni.html (ekki þarf að gera *Branching* hlutann) og skilaðu hér í geymsluna þína. Mundu að gera `commit` eftir hverja spurningu. Notaðu markdown til að setja spurningar og svör snyrtilega upp. Að lokum sendir þú svo geymsluna á github.
+### Seinni hluti:
+Leystu verkefnið sem er hér: https://vefhonnun.github.io/verkstjorn/Verkefni.html 
+(ekki þarf að gera *Branching* hlutann) og skilaðu hér í geymsluna þína. 
+Mundu að gera `git add .` og `git commit -m 'skýring'` eftir hverja spurningu. 
+Notaðu markdown til að setja spurningarnar og svörin snyrtilega upp eins og lista. 
+Að lokum sendir þú svo geymsluna á github þegar þessum hluta er lokið.
+`git push`
 
 ## Bjargir
  - [Markdown Cheatsheet (wiki)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
